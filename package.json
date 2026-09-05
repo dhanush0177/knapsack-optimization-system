@@ -2,8 +2,8 @@
   "name": "knapsack-optimization-system",
   "version": "0.0.0",
   "license": "MIT",
+  "packageManager": "pnpm@10.26.1",
   "scripts": {
-    "preinstall": "sh -c 'rm -f package-lock.json yarn.lock; case \"$npm_config_user_agent\" in pnpm/*) ;; *) echo \"Use pnpm instead\" >&2; exit 1 ;; esac'",
     "dev": "pnpm --filter @workspace/knapsack-analyzer run dev",
     "build": "pnpm --filter @workspace/knapsack-analyzer run build",
     "typecheck": "pnpm --filter @workspace/knapsack-analyzer run typecheck"
