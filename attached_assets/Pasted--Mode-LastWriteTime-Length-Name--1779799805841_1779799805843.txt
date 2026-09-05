@@ -1,0 +1,29 @@
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          16-05-2026    11:13                New folder
+-a---          16-05-2026    00:33          45638 0ec898be90a9f5e98f4c4c79c630a0e2.jpg
+-a---          16-05-2026    00:23         126829 125ed2dce66edf3d47306c9804ff3d3c.jpg
+-a---          16-05-2026    00:19          17369 23102b9c6446c81c3a21bb2247b19850.jpg
+-a---          16-05-2026    00:26         149477 3cf6bd732d143024331ed28f76efe63d.jpg
+-a---          26-05-2026    18:13        1658851 7z2601-x64.exe
+-a---          16-05-2026    00:21         107440 851f9d91b30dce334d562b5509e81be5.jpg
+-a---          16-05-2026    00:33          32536 a1ec3e9e4b970bb64287edbbc19df009.jpg
+-a---          16-05-2026    00:23          14833 fdd4b8b6940e24b4aecf2e64dacf5362.jpg
+-a---          26-05-2026    18:02         119560 knapsack-analyzer.tar.gz
+-a---          16-05-2026    00:35          45638 knight.jpg
+-a---          20-05-2026    19:24        6894376 npp.8.9.5.Installer.x64.exe
+-a---          16-05-2026    10:57       36074794 powershell-7.6.1-1.cm.aarch64.rpm
+-a---          16-05-2026    10:58      108978176 PowerShell-7.6.1-win-arm64.msi
+-a---          20-05-2026    20:03         230828 reference resume.pdf
+-a---          21-05-2026    07:00          11696 resume_premium (1).tex
+-a---          21-05-2026    07:03          10450 resume_premium (2).tex
+-a---          21-05-2026    07:36          11004 resume_premium (3).tex
+-a---          21-05-2026    07:39          11168 resume_premium (4).tex
+-a---          20-05-2026    20:24          11696 resume_premium.tex
+-a---          21-05-2026    07:48         239459 resume.pdf
+-a---          20-05-2026    20:12           9751 resume.tex
+-a---          16-05-2026    11:08       20247985 WhatsApp Video 2026-05-10 at 5.09.10 PM.mp4
+-a---          21-05-2026    07:56        7616384 wps_wid.cid-1614011139.1779330365.exe
+
+PS C:\Users\dhanu\Downloads>

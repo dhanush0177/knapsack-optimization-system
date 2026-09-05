@@ -1,0 +1,157 @@
+Create a visually stunning, enterprise-grade DAA Mini Project UI for a “Knapsack Algorithm Analyzer” inspired by premium modern dashboards and developer tools.
+
+DO NOT create a generic student-project UI.
+
+The interface should feel like:
+
+* Linear
+* Raycast
+* Stripe Dashboard
+* Vercel Analytics
+* Framer
+* GitHub Insights
+* Figma Dev Mode
+* Trading dashboards
+* Modern AI SaaS products
+
+Core Design Direction:
+
+* Extremely clean layout
+* Minimal but premium
+* Strong spacing hierarchy
+* Smooth micro-interactions
+* Professional typography
+* Real analytics-product feel
+
+UI Structure:
+
+1. Left collapsible sidebar
+
+   * Dashboard
+   * Algorithm Visualizer
+   * Benchmarking
+   * Performance Analytics
+   * Complexity Comparison
+   * Reports
+   * Settings
+
+2. Top command-style navbar
+
+   * Search bar
+   * Theme switcher
+   * Notifications
+   * Profile section
+   * Breadcrumb navigation
+
+3. Main hero section
+
+   * Animated headline
+   * Live algorithm stats
+   * Floating metric cards
+   * Interactive graph background
+
+4. Visualization workspace
+
+   * Large centered visualization canvas
+   * Animated knapsack filling effect
+   * Item movement animations
+   * Real-time DP table generation
+   * Smooth transitions between steps
+
+5. Advanced controls panel
+
+   * Sliders
+   * Dropdowns
+   * Toggle switches
+   * Speed controller
+   * Start/Pause/Reset buttons
+   * Generate random dataset button
+
+6. Analytics section
+
+   * Glassmorphism cards
+   * Live charts
+   * Benchmark graphs
+   * Runtime heatmaps
+   * Complexity comparison
+   * Memory usage graphs
+
+7. Professional benchmark area
+   Compare:
+
+   * Dynamic Programming
+   * Greedy
+   * Backtracking
+   * Branch and Bound
+
+Visual Requirements:
+
+* Dark premium theme
+* Matte black + deep navy background
+* Purple/blue/cyan gradients
+* Subtle glow effects
+* Frosted glass panels
+* Thin borders
+* Smooth shadows
+* Elegant hover states
+* Motion-based UI
+
+Animations:
+
+* Framer Motion style animations
+* Smooth page transitions
+* Floating cards
+* Animated charts
+* Counter animations
+* Skeleton loading states
+* Pulse/glow effects
+* Smooth sidebar expansion
+
+Typography:
+
+* Use Inter or Poppins
+* Strong hierarchy
+* Large bold hero headings
+* Minimal text clutter
+* Dashboard-like spacing
+
+Interactive Features:
+
+* Step-by-step visualization
+* Hover tooltips
+* Real-time updates
+* Export results
+* Screenshot/download chart option
+* Fullscreen visualization mode
+* Live complexity indicator
+
+Important:
+The UI should NOT look like:
+
+* Bootstrap student template
+* Basic HTML/CSS project
+* Old admin panel
+* Generic card layout
+
+Instead make it feel like:
+“A premium algorithm analytics platform built by a startup.”
+
+Use:
+
+* TailwindCSS style design language
+* Modern CSS grid/flex layouts
+* Reusable UI components
+* Chart.js / Plotly visualizations
+* Modular folder structure
+
+Generate:
+
+* Full professional HTML
+* Advanced CSS
+* Modern JavaScript interactions
+* Responsive design
+* Production-quality UI organization
+* Beautiful dashboard layout
+
+Goal:
+The final result should be portfolio-worthy, internship-worthy, visually impressive during presentations, and look like a real SaaS analytics application instead of a college mini project.

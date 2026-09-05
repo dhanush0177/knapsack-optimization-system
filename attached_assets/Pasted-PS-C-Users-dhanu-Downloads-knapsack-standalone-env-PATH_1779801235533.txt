@@ -1,0 +1,54 @@
+PS C:\Users\dhanu\Downloads\knapsack-standalone> $env:PATH += ";C:\Users\dhanu\AppData\Roaming\npm"
+PS C:\Users\dhanu\Downloads\knapsack-standalone> pnpm install
+[WARN] Request took 10624ms: https://registry.npmjs.org/@radix-ui%2Freact-avatar
+[WARN] Request took 12033ms: https://registry.npmjs.org/@radix-ui%2Freact-context-menu
+[WARN] Request took 12465ms: https://registry.npmjs.org/@radix-ui%2Freact-alert-dialog
+[WARN] Request took 12806ms: https://registry.npmjs.org/@radix-ui%2Freact-dropdown-menu
+[WARN] Request took 12917ms: https://registry.npmjs.org/@radix-ui%2Freact-progress
+[WARN] 22 other warnings
+[WARN] 34 other warningsts@2.15.4: 1.x and 2.x branches are no longer active. Bump to Recharts v3 to receive latest feat
+ures and bugfixes. See https://github.com/recharts/recharts/wiki/3.0-migration-guide
+[WARN] 35 other warningstry.npmjs.org/@hookform%2Fresolvers error (23). Will retry in 10 seconds. 2 retries left.
+[WARN] 38 other warningstry.npmjs.org/@radix-ui%2Freact-checkbox error (23). Will retry in 10 seconds. 2 retries left.
+[WARN] 44 other warningstry.npmjs.org/@radix-ui%2Freact-label error (23). Will retry in 10 seconds. 2 retries left.
+[WARN] 46 other warningstry.npmjs.org/@types%2Fnode error (23). Will retry in 10 seconds. 2 retries left.
+[WARN] 80 other warningstry.npmjs.org/react error (23). Will retry in 10 seconds. 2 retries left.
+[WARN] 81 other warningstry.npmjs.org/date-fns/-/date-fns-3.6.0.tgz error (23). Will retry in 10 seconds. 2 retries left
+.ownloading react-icons@5.6.0: 516.09 kB/22.42 MB
+[WARN] 102 other warningsry.npmjs.org/react-dom error (23). Will retry in 10 seconds. 2 retries left.
+[WARN] 104 other warningsry.npmjs.org/react-icons/-/react-icons-5.6.0.tgz error (23). Will retry in 10 seconds. 2 retrie
+[WARN] 106 other warnings.6.0: 565.24 kB/22.42 MB
+[WARN] 112 other warningsry.npmjs.org/tailwindcss error (23). Will retry in 10 seconds. 2 retries left.
+[WARN] 129 other warningsry.npmjs.org/vite error (23). Will retry in 10 seconds. 2 retries left.
+[WARN] GET https://registry.npmjs.org/lucide-react/-/lucide-react-0.545.0.tgz error (23). Will retry in 10 seconds. 2 retries left. react-icons@5.6.0: 565.24 kB/22.42 MB
+[WARN] GET https://registry.npmjs.org/framer-motion/-/framer-motion-12.40.0.tgz error (23). Will retry in 10 seconds. 2 retries left.eact-icons@5.6.0: 457.47 kB/22.42 MB
+[WARN] GET https://registry.npmjs.org/date-fns/-/date-fns-3.6.0.tgz error (23). Will retry in 1 minute. 1 retries left.
+[WARN] GET https://registry.npmjs.org/react-icons/-/react-icons-5.6.0.tgz error (23). Will retry in 1 minute. 1 retries left.oading react-icons@5.6.0: 1.73 MB/22.42 MB
+[WARN] GET https://registry.npmjs.org/lucide-react/-/lucide-react-0.545.0.tgz error (23). Will retry in 1 minute. 1 retries left.ng react-icons@5.6.0: 1.73 MB/22.42 MB
+[WARN] GET https://registry.npmjs.org/date-fns/-/date-fns-4.3.0.tgz error (23). Will retry in 10 seconds. 2 retries left.ownloading react-icons@5.6.0: 188.94 kB/22.42 MB
+[WARN] GET https://registry.npmjs.org/scheduler error (23). Will retry in 10 seconds. 2 retries left.
+[WARN] GET https://registry.npmjs.org/motion-dom/-/motion-dom-12.40.0.tgz error (23). Will retry in 10 seconds. 2 retries left.ding react-icons@5.6.0: 210.09 kB/22.42 MB
+[WARN] GET https://registry.npmjs.org/date-fns-jalali/-/date-fns-jalali-4.1.0-0.tgz error (23). Will retry in 10 seconds. 2 retries left.-icons@5.6.0: 271.92 kB/22.42 MB
+[WARN] GET https://registry.npmjs.org/rollup error (23). Will retry in 10 seconds. 2 retries left.
+[WARN] GET https://registry.npmjs.org/@tailwindcss%2Foxide-linux-x64-gnu error (23). Will retry in 10 seconds. 2 retries left.ading react-icons@5.6.0: 865.79 kB/22.42 MB
+[WARN] GET https://registry.npmjs.org/@tailwindcss%2Foxide-win32-x64-msvc error (23). Will retry in 10 seconds. 2 retries left.ding react-icons@5.6.0: 882.17 kB/22.42 MB
+[WARN] GET https://registry.npmjs.org/@tailwindcss%2Foxide-linux-arm64-musl error (23). Will retry in 10 seconds. 2 retries left.ng react-icons@5.6.0: 882.17 kB/22.42 MB
+[WARN] GET https://registry.npmjs.org/date-fns/-/date-fns-4.3.0.tgz error (23). Will retry in 1 minute. 1 retries left.
+[WARN] GET https://registry.npmjs.org/motion-dom/-/motion-dom-12.40.0.tgz error (23). Will retry in 1 minute. 1 retries left.oading react-icons@5.6.0: 882.17 kB/22.42 MB
+[WARN] GET https://registry.npmjs.org/@rollup/rollup-win32-x64-msvc/-/rollup-win32-x64-msvc-4.60.4.tgz error (23). Will retry in 10 seconds. 2 retries left.7 kB/22.42 MB
+[WARN] GET https://registry.npmjs.org/@esbuild/win32-x64/-/win32-x64-0.25.12.tgz error (23). Will retry in 10 seconds. 2 retries left.act-icons@5.6.0: 882.17 kB/22.42 MB
+Packages: +255
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[WARN] GET https://registry.npmjs.org/lightningcss-win32-x64-msvc/-/lightningcss-win32-x64-msvc-1.32.0.tgz error (23). Will retry in 10 seconds. 2 retries left./22.42 MB
+[23] The operation was aborted due to timeout
+
+This error happened while installing a direct dependency of C:\Users\dhanu\Downloads\knapsack-standalone
+
+TimeoutError: The operation was aborted due to timeout
+    at new DOMException (node:internal/per_context/domexception:76:18)
+    at Timeout._onTimeout (node:internal/abort_controller:154:9)
+    at listOnTimeout (node:internal/timers:605:17)
+    at process.processTimers (node:internal/timers:541:7)
+Progress: resolved 325, reused 0, downloaded 247, added 247
+Downloading react-icons@5.6.0: 882.17 kB/22.42 MB
+PS C:\Users\dhanu\Downloads\knapsack-standalone>
